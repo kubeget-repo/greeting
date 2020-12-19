@@ -1,0 +1,29 @@
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index dd3fd57..0000000
+--- a/README.md
++++ /dev/null
+@@ -1,5 +0,0 @@
+-# My greeting 
+-### this repository contain a file "greeting.text" that contain my greeting
+-- the repository include two branches 
+-	- master
+-	- greeting 
+diff --git a/answer9.txt b/answer9.txt
+deleted file mode 100644
+index a7797c1..0000000
+--- a/answer9.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-* ca2629b  readme file
+-| * d3ea885 add greete
+-|/  
+-* d78a40c  greeting.txt file created
+diff --git a/greeting.txt b/greeting.txt
+index e69de29..d545991 100644
+--- a/greeting.txt
++++ b/greeting.txt
+@@ -0,0 +1,3 @@
++shadi fadila
++====================
++developer at microsoft 
